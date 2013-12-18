@@ -3,4 +3,4 @@
 
 for test
 
-中文 test 
+chinese word => 中文 test 
