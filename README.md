@@ -5,4 +5,4 @@ for test
 
 chinese word => 中文 test 
 
-add by chuan branch
+add by chuan branch **
