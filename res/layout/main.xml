@@ -9,5 +9,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="進入廣告畫面" />
- 
+
+    <Button
+        android:id="@+id/buttonPreferenceMain"
+        android:layout_width="154dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btnPreferenceMain" />
+
 </LinearLayout>
