@@ -3,4 +3,4 @@
 
 for test
 
-chinese word => ¤¤¤å test 
+chinese word => ä¸­æ–‡ test 
